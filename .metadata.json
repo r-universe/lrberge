@@ -1,10 +1,10 @@
 [
   {
-    "package": "dreamerr",
+    "package": "fixest",
     "oncran": true
   },
   {
-    "package": "fixest",
+    "package": "dreamerr",
     "oncran": true
   }
 ]
