@@ -8,3 +8,6 @@
 [submodule "fixest"]
 	path = fixest
 	url = https://github.com/lrberge/fixest
+[submodule "stringmagic"]
+	path = stringmagic
+	url = https://github.com/lrberge/stringmagic
