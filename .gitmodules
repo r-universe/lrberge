@@ -2,12 +2,24 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FENmlm"]
+	path = FENmlm
+	url = https://github.com/cran/FENmlm
+[submodule "HDclassif"]
+	path = HDclassif
+	url = https://github.com/lrberge/hdclassif
 [submodule "dreamerr"]
 	path = dreamerr
 	url = https://github.com/lrberge/dreamerr
 [submodule "fixest"]
 	path = fixest
 	url = https://github.com/lrberge/fixest
+[submodule "fplot"]
+	path = fplot
+	url = https://github.com/lrberge/fplot
+[submodule "hdd"]
+	path = hdd
+	url = https://github.com/lrberge/hdd
 [submodule "indexthis"]
 	path = indexthis
 	url = https://github.com/lrberge/indexthis
